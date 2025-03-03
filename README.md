@@ -66,7 +66,7 @@ Detailed results and model performance comparisons are provided in the results/ 
 - Integrate real-time Twitter/X data using APIs.
 
 ## Contributors
-- Rahulappu2004 ([GitHub Profile](https://github.com/yourusername))
+- Rahulappu2004 ([GitHub Profile](https://https://github.com/Rahulappu2004/))
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
