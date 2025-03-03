@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fake-Account-Detection-in-Twitter-X.git
+   git clone https://https://github.com/Rahulappu2004/Fake-Account-Detection-in-Twitter-X/.git
    cd Fake-Account-Detection-in-Twitter-X
    ```
 2. Install dependencies:
