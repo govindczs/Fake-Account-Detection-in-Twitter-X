@@ -9,8 +9,7 @@ The following six algorithms have been implemented for fake account detection:
 2. Support Vector Machine (SVM) & Neural Network (NN) Hybrid Model
 3. Word2Vec with XGBoost
 4. Random Forest Classifier
-5. Binary Logistic Regression
-6. Naive Bayes Classifier
+5. Naive Bayes Classifier
 
 ## Dataset
 The dataset consists of the following columns:
